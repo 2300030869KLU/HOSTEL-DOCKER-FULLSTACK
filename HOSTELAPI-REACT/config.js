@@ -1,6 +1,6 @@
 const config = 
 {
-    url:"http://localhost:3007"
+    url:"http://localhost:3006"
 }
 
 export default config
